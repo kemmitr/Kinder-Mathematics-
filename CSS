@@ -1,0 +1,85 @@
+html{
+    position: absolute;
+    background: #16191B;
+    background-image: url(teacher-flatlay_4460x4460.jpg);
+    background-size: 1700px;
+    background-repeat: no-repeat; 
+    margin-left: 100px;
+  
+    
+    
+    
+}
+#header{
+    position: absolute;
+    color: black;
+    margin-top: 10px;
+    margin-left: 300px;
+    padding-top: 35px;
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+
+#mathproblem{
+    position: absolute;
+    background: #FDFC6F;
+    height: 100px;
+    width: 50px;
+    margin-top: 200px;
+    margin-left: 300px;
+    font-size: 80px;
+    font-family: 'Permanent Marker', cursive;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+#score{
+    position: absolute;
+    height: 70px;
+    width: 150px;
+    background: #FDC4D3;
+    border-radius: 5px;
+    margin-left: 940px;
+    margin-top: 300px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    box-shadow: 2px 5px 2px #624F43;
+    font-size: 15px;
+}
+#answers{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 250px;
+    height: 50px;
+    width: 700px;
+}
+
+.buttons{
+    
+    margin-right: 70px;
+    width: 50px;
+    height: 50px;
+    background: #FDFC6F;
+    border-color: #FDFC6F;
+    
+}
+#startb{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 525px;
+    width: 100px;
+    height: 50px;
+    background: #FDFC6F;
+    border-color: #FDFC6F;
+    font-family: 'Play', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0px 2px 2px 2px #624F43;
+}
+#time{
+    position: absolute;
+     margin-left: 650px;
+    margin-top: 200px;
+    width: 150px;
+    height: 50px;
+    background: #FDFC6F;
+    font-family: 'Permanent Marker', cursive;
+}
